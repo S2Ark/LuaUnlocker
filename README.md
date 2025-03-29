@@ -35,3 +35,5 @@ mkdir build && cd build
 python3 ../configure.py -s cs2
 ambuild
 ```
+
+WHO THE FUCK STILL USE VSCRIPT IN 2025
